@@ -11,7 +11,7 @@ import simpleGit from "simple-git";
 export default {
   input: 'src/main.ts',
   output: {
-    name: "LSCG",
+    name: "a",
     file: 'dist/bundle.js',
     format: 'iife',
     sourcemap: true,
